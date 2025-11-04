@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ZJU-blockchain-homework2
 =======
 # EasyBet - 进阶去中心化彩票系统
@@ -221,3 +220,6 @@ React + TypeScript: 前端开发技术栈
 
 杨佳利 浙江大学区块链课程 2025
 >>>>>>> master
+=======
+
+>>>>>>> 5b403f13b3c65f43fd236465737e5883b1b92c06
