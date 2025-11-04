@@ -1,0 +1,120 @@
+/* 保持之前的样式，添加以下新样式 */
+
+.create-form {
+  max-width: 500px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.form-group {
+  margin: 15px 0;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+.form-group input {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.create-btn {
+  background-color: #28a745;
+  color: white;
+  border: none;
+  padding: 12px 24px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-top: 15px;
+}
+
+.create-btn:hover {
+  background-color: #218838;
+}
+
+.options-section {
+  margin: 15px 0;
+}
+
+.option-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px;
+  border-bottom: 1px solid #eee;
+}
+
+.bet-btn {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 3px;
+  cursor: pointer;
+  font-size: 12px;
+}
+
+.bet-btn:hover {
+  background-color: #0056b3;
+}
+
+.judge-actions {
+  margin-top: 15px;
+  padding: 15px;
+  background-color: #f8f9fa;
+  border-radius: 5px;
+}
+
+.settle-btn {
+  background-color: #dc3545;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 3px;
+  cursor: pointer;
+  font-size: 12px;
+  margin: 5px;
+}
+
+.settle-btn:hover {
+  background-color: #c82333;
+}
+
+.status-进行中 {
+  color: #28a745;
+  font-weight: bold;
+}
+
+.status-已结束 {
+  color: #ffc107;
+  font-weight: bold;
+}
+
+.status-已结算 {
+  color: #6c757d;
+  font-weight: bold;
+}
+
+.wallet-info {
+  text-align: left;
+}
+
+.contract-addresses {
+  margin-top: 20px;
+  padding: 15px;
+  background-color: #f8f9fa;
+  border-radius: 5px;
+}
+
+.contract-addresses p {
+  font-family: monospace;
+  font-size: 12px;
+  word-break: break-all;
+  margin: 5px 0;
+}
